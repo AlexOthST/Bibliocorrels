@@ -1,8 +1,7 @@
 # Bibliocorrels
 Biblioteca de correlaciones para Excel
 Un complemento de Excel que reúne una
-colección de funciones de Excel definidas
-por el usuario para estimar las
+colección de funciones personalizadas de Excel para estimar las
 propiedades PVT de los hidrocarburos
 que se encuentran comúnmente en los
 yacimientos de petróleo crudo y
