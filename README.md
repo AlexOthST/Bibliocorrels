@@ -1,7 +1,7 @@
 # Bibliocorrels
-Biblioteca de Correlaciones Para Excel
-Un Complemento de Excel que agrupa una colección de funciones personalizadas de Excel para estimar propiedades PVT de hidrocarburos encontrados normalmente en yacimientos de petróleo crudo y gas / gas condenado.
+Correlation Library for Excel
+An Excel add-in that brings together a collection of Users Defined Excel functions for estimating PVT properties of hydrocarbons commonly found in crude oil and gas/condensed gas deposits.
 
-Realizado originalmente como un Complemento de Excel 97-2003.
+Originally created as an Excel 97-2003 add-in.
 
-Espero migrarlo a las nuevas versiones de Excel y realizar un proyecto mayor en Python.
+I hope to migrate it to newer versions of Excel and undertake a larger project in Python.
